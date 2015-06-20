@@ -1,7 +1,7 @@
-box: wercker/default
-build:
-  steps:
+box: debian
+steps:
     - arjen/hugo-build:
-        version: 0.14
+        version: "0.14"
         theme: angels-ladder
-        flags: --buildDrafts=false
+        config: config.toml
+        flags: --disableSitemap=true
