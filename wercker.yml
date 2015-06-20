@@ -4,7 +4,7 @@ build:
         - me6iaton/hugo-build@1.0.1
         - me6iaton/hugo-build:
             version: "0.14"
-            # bin: bin/hugo-linux
+            bin: bin
             theme: angels-ladder
             config: config.toml
             flags: --disableSitemap=true
