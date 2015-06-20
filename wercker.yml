@@ -1,7 +1,8 @@
 box: debian
-steps:
-    - arjen/hugo-build:
-        version: "0.14"
-        theme: angels-ladder
-        config: config.toml
-        flags: --disableSitemap=true
+build:
+    steps:
+        arjen/hugo-build:
+            version: "0.14"
+            theme: angels-ladder
+            config: config.toml
+            flags: --disableSitemap=true
