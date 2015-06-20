@@ -1,0 +1,8 @@
+baseurl = "http://devboy.org/"
+languageCode = "en-us"
+title = "devboy.org"
+editor = "atom"
+newContentEditor = "atom"
+[permalinks]
+    post = "/blog/:year/:month/:title/"
+    project = "/project/:title"

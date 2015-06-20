@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html lang="{{.Site.LanguageCode}}">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="UTF-8">
+  <title>
+    {{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} | {{ .Site.Title }}{{ end }}
+  </title>
+
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width,user-scalable=no,maximum-scale=1,initial-scale=1">
+
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="/css/sanitize.css">
+  <link rel="stylesheet" href="/css/responsive.css">
+  <link rel="stylesheet" href="/css/color-brewer.css">
+  <link rel="stylesheet/less" href="/css/theme.less">
+  <link rel="stylesheet" href="/css/custom.css">
+  <link rel="stylesheet" href="/css/animate.min.css">
+
+
+  <!-- Script
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script src="/js/less.js" type="text/javascript"></script>
+
+
+</head>
+
+
+
+<body>
+
+
+<!-- Header Section Layout
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<header class="banner row span_12" role="navigation">
+        <h1><a href="/">{{ .Site.Title }}</a></h1>
+        <div class="row">
+            <ul><li><h2><a href="/post">Posts</a></h2></li>
+            <li><h2><a href="/project">Projects</a></h2></li>
+            <li><h2><a href="/page/about">About</a></h2></li></ul>
+        </div>
+        <!-- </div> -->
+
+
+    <!-- {{ with .Site.Params.subtitle }}<h2>{{ . }}</h2>{{ end }} -->
+  <!-- </div> -->
+  <!-- <div id="social" class="col span_6"> -->
+    <!-- <ul>
+      {{ with .Site.Params.twitter }}<li><a href="{{ . }}" target="_blank">Twitter</a></li>{{ end }}
+      {{ with .Site.Params.facebook }}<li><a href="{{ . }}" target="_blank">Facebook</a></li>{{ end }}
+      {{ with .Site.Params.github }}<li><a href="{{ . }}" target="_blank">GitHub</a></li>{{ end }}
+    </ul>
+  </div>
+</div> -->
+</header>
+
+<div class="container">

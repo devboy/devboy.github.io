@@ -1,0 +1,22 @@
+{{ partial "header.html" . }}
+
+  <!-- Main Section Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <main id="index" role="main">
+    <div class="article-header"><h1>{{.Title}}</h1></div>
+    {{ range .Data.Pages.ByTitle }}
+    <div class="summary">
+      <div class="date">
+          {{ range .Params.tags }}
+            <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+          {{ end }}
+      <!-- {{ range .Params.tags }}
+        #<a href="/tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
+      {{ end }} -->
+      </div>
+      <h2><a href="{{ .Permalink }}">{{ .Title }} {{ if .Draft }}*{{end}}</a></h2>
+    </div>
+    {{ end }}
+  </main>
+
+{{ partial "footer.html" . }}
