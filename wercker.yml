@@ -2,7 +2,7 @@ box: debian
 build:
     steps:
         - me6iaton/hugo-build@1.0.1
-        - arjen/hugo-build:
+        - me6iaton/hugo-build:
             version: "0.14"
             theme: angels-ladder
             config: config.toml
