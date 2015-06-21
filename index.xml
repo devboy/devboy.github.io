@@ -86,6 +86,30 @@ Just checking if that &lt;a href=&#34;http://gohugo.io&#34;&gt;this static site-
     </item>
     
     <item>
+      <title>devboy/buildr-as3</title>
+      <link>http://devboy.org/project/devboy/buildr-as3</link>
+      <pubDate>Sun, 21 Jun 2015 00:06:51 +0200</pubDate>
+      
+      <guid>http://devboy.org/project/devboy/buildr-as3</guid>
+      <description>&lt;p&gt;“build like you code” - now supporting ActionScript 3 &amp;amp; Flex&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/devboy/buildr-as3&#34;&gt;github.com/devboy/buildr-as3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>devboy/buildr-hx</title>
+      <link>http://devboy.org/project/devboy/buildr-hx</link>
+      <pubDate>Sun, 21 Jun 2015 00:06:51 +0200</pubDate>
+      
+      <guid>http://devboy.org/project/devboy/buildr-hx</guid>
+      <description>&lt;p&gt;“build like you code” - now supporting haXe&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/devboy/buildr-hx&#34;&gt;github.com/devboy/buildr-hx&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>devboy/Paket.Unity3D</title>
       <link>http://devboy.org/project/devboy/paket-unity3d</link>
       <pubDate>Sun, 21 Jun 2015 00:06:51 +0200</pubDate>
