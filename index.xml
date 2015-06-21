@@ -17,7 +17,7 @@
       <guid>http://devboy.org/blog/2015/06/reviving-this-blog/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://devboy.org/post/boring-zombie.gif&#34; alt=&#34;&#34; /&gt;
 
-Just checking if that &lt;a href=&#34;http://gohugo.io&#34;&gt;this static site-generator&lt;/a&gt; actually works.&lt;/p&gt;
+Just checking that &lt;a href=&#34;http://gohugo.io&#34;&gt;this static site-generator&lt;/a&gt; is actually working.&lt;/p&gt;
 </description>
     </item>
     
@@ -86,18 +86,6 @@ Just checking if that &lt;a href=&#34;http://gohugo.io&#34;&gt;this static site-
     </item>
     
     <item>
-      <title>buildr-hx</title>
-      <link>http://devboy.org/project/devboy/buildr-hx</link>
-      <pubDate>Sun, 21 Jun 2015 00:06:51 +0200</pubDate>
-      
-      <guid>http://devboy.org/project/devboy/buildr-hx</guid>
-      <description>&lt;p&gt;“build like you code” - now supporting haXe&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/devboy/buildr-hx&#34;&gt;github.com/devboy/buildr-hx&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>buildr-as3</title>
       <link>http://devboy.org/project/devboy/buildr-as3</link>
       <pubDate>Sun, 21 Jun 2015 00:06:51 +0200</pubDate>
@@ -106,6 +94,18 @@ Just checking if that &lt;a href=&#34;http://gohugo.io&#34;&gt;this static site-
       <description>&lt;p&gt;“build like you code” - now supporting ActionScript 3 &amp;amp; Flex&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/devboy/buildr-as3&#34;&gt;github.com/devboy/buildr-as3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>buildr-hx</title>
+      <link>http://devboy.org/project/devboy/buildr-hx</link>
+      <pubDate>Sun, 21 Jun 2015 00:06:51 +0200</pubDate>
+      
+      <guid>http://devboy.org/project/devboy/buildr-hx</guid>
+      <description>&lt;p&gt;“build like you code” - now supporting haXe&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/devboy/buildr-hx&#34;&gt;github.com/devboy/buildr-hx&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
