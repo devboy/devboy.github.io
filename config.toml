@@ -1,4 +1,4 @@
-baseurl = "http://devboy.org/"
+baseUrl = "http://devboy.org/"
 languageCode = "en-us"
 title = "devboy.org"
 editor = "atom"
