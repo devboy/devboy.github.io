@@ -7,4 +7,4 @@ title = "Reviving this blog"
 +++
 
 ![](/post/boring-zombie.gif)
-Just checking if that [this static site-generator](http://gohugo.io) actually works.
+Just checking that [this static site-generator](http://gohugo.io) is actually working.

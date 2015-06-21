@@ -2,7 +2,7 @@
 date = "2015-06-21T00:19:46+02:00"
 github_url = ""
 tags = ["open-source", "f-sharp"]
-title = "fsharp/fake"
+title = "fake"
 
 +++
 

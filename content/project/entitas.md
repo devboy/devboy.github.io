@@ -2,7 +2,7 @@
 date = "2015-06-21T00:18:36+02:00"
 github_url = ""
 tags = ["open-source", "Objective-C"]
-title = "wooga/entitas"
+title = "entitas"
 
 +++
 

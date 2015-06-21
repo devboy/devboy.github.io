@@ -2,7 +2,7 @@
 date = "2015-06-21T00:15:14+02:00"
 github_url = ""
 tags = ["open-source", "F-sharp"]
-title = "fsprojects/paket"
+title = "paket"
 
 +++
 

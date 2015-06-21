@@ -1,7 +1,7 @@
 +++
 date = "2015-06-20T20:06:39+02:00"
 tags = ["open-source", "C-sharp", "Unity3D"]
-title = "wooga/wooga.lambda"
+title = "wooga.lambda"
 url = "project/wooga/wooga-lambda"
 +++
 
