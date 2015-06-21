@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Sharp on devboy.org</title>
+    <link>http://localhost:1313/tags/c-sharp/</link>
+    <description>Recent content in C Sharp on devboy.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jun 2015 20:06:39 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/c-sharp/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>wooga/wooga.lambda</title>
+      <link>http://localhost:1313/project/wooga/wooga-lambda</link>
+      <pubDate>Sat, 20 Jun 2015 20:06:39 +0200</pubDate>
+      
+      <guid>http://localhost:1313/project/wooga/wooga-lambda</guid>
+      <description>&lt;p&gt;Unity3D being so far behind the .NET and Mono world, this library is an attempt at backporting some features found in more recent runtimes and C# libraries as well as pick up and harness useful ideas and patterns from other languages and/or programming paradigms.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/wooga/Wooga.Lambda-CSharp&#34;&gt;github.com/wooga/Wooga.Lambda-CSharp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

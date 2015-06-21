@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on devboy.org</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on devboy.org</description>
+    <title>Gif on devboy.org</title>
+    <link>http://localhost:1313/tags/gif/</link>
+    <description>Recent content in Gif on devboy.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jun 2015 02:28:24 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/gif/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Reviving this blog</title>

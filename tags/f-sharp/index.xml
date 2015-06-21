@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F Sharp on devboy.org</title>
+    <link>http://localhost:1313/tags/f-sharp/</link>
+    <description>Recent content in F Sharp on devboy.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jun 2015 00:19:46 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/f-sharp/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>fsharp/fake</title>
+      <link>http://localhost:1313/project/fsharp/fake</link>
+      <pubDate>Sun, 21 Jun 2015 00:19:46 +0200</pubDate>
+      
+      <guid>http://localhost:1313/project/fsharp/fake</guid>
+      <description>&lt;p&gt;&amp;ldquo;FAKE - F# Make&amp;rdquo; is a cropen-source platform build automation system. Due to its integration in F#, all benefits of the .NET Framework and functional programming can be used, including the extensive class library, powerful debuggers and integrated development environments like Visual Studio or MonoDevelop, which provide syntax highlighting and code completion.&lt;/p&gt;
+
+&lt;p&gt;The new DSL was designed to be succinct, typed, declarative, extensible and easy to use.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/fsharp/FAKE&#34;&gt;github.com/fsharp/FAKE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>devboy/FAKE.Unity3D</title>
+      <link>http://localhost:1313/project/devboy/fake-unity3d</link>
+      <pubDate>Sun, 21 Jun 2015 00:16:21 +0200</pubDate>
+      
+      <guid>http://localhost:1313/project/devboy/fake-unity3d</guid>
+      <description>&lt;p&gt;Collection of common FAKE tasks for Unity3D projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/devboy/FAKE.Unity3D&#34;&gt;github.com/devboy/FAKE.Unity3D&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fsprojects/paket</title>
+      <link>http://localhost:1313/project/fsprojects/paket</link>
+      <pubDate>Sun, 21 Jun 2015 00:15:14 +0200</pubDate>
+      
+      <guid>http://localhost:1313/project/fsprojects/paket</guid>
+      <description>&lt;p&gt;A package dependency manager for .NET with support for NuGet packages and GitHub repositories.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/fsprojects/Paket&#34;&gt;github.com/fsprojects/Paket&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>devboy/Paket.Unity3D</title>
+      <link>http://localhost:1313/project/devboy/paket-unity3d</link>
+      <pubDate>Sun, 21 Jun 2015 00:06:51 +0200</pubDate>
+      
+      <guid>http://localhost:1313/project/devboy/paket-unity3d</guid>
+      <description>&lt;p&gt;An extension for the Paket dependency manager that enables the integration of NuGet dependencies into Unity3D projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/devboy/Paket.Unity3D&#34;&gt;github.com/devboy/Paket.Unity3D&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
