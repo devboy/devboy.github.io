@@ -10,11 +10,11 @@
     <atom:link href="http://devboy.org/tags/f-sharp/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>fsharp/fake</title>
-      <link>http://devboy.org/project/fsharp/fake</link>
+      <title>fake</title>
+      <link>http://devboy.org/project/fake</link>
       <pubDate>Sun, 21 Jun 2015 00:19:46 +0200</pubDate>
       
-      <guid>http://devboy.org/project/fsharp/fake</guid>
+      <guid>http://devboy.org/project/fake</guid>
       <description>&lt;p&gt;&amp;ldquo;FAKE - F# Make&amp;rdquo; is a cropen-source platform build automation system. Due to its integration in F#, all benefits of the .NET Framework and functional programming can be used, including the extensive class library, powerful debuggers and integrated development environments like Visual Studio or MonoDevelop, which provide syntax highlighting and code completion.&lt;/p&gt;
 
 &lt;p&gt;The new DSL was designed to be succinct, typed, declarative, extensible and easy to use.&lt;/p&gt;
@@ -24,7 +24,7 @@
     </item>
     
     <item>
-      <title>devboy/FAKE.Unity3D</title>
+      <title>FAKE.Unity3D</title>
       <link>http://devboy.org/project/devboy/fake-unity3d</link>
       <pubDate>Sun, 21 Jun 2015 00:16:21 +0200</pubDate>
       
@@ -36,11 +36,11 @@
     </item>
     
     <item>
-      <title>fsprojects/paket</title>
-      <link>http://devboy.org/project/fsprojects/paket</link>
+      <title>paket</title>
+      <link>http://devboy.org/project/paket</link>
       <pubDate>Sun, 21 Jun 2015 00:15:14 +0200</pubDate>
       
-      <guid>http://devboy.org/project/fsprojects/paket</guid>
+      <guid>http://devboy.org/project/paket</guid>
       <description>&lt;p&gt;A package dependency manager for .NET with support for NuGet packages and GitHub repositories.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/fsprojects/Paket&#34;&gt;github.com/fsprojects/Paket&lt;/a&gt;&lt;/p&gt;
@@ -48,7 +48,7 @@
     </item>
     
     <item>
-      <title>devboy/Paket.Unity3D</title>
+      <title>Paket.Unity3D</title>
       <link>http://devboy.org/project/devboy/paket-unity3d</link>
       <pubDate>Sun, 21 Jun 2015 00:06:51 +0200</pubDate>
       

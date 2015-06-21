@@ -36,11 +36,11 @@ Just checking if that &lt;a href=&#34;http://gohugo.io&#34;&gt;this static site-
     </item>
     
     <item>
-      <title>fsharp/fake</title>
-      <link>http://devboy.org/project/fsharp/fake</link>
+      <title>fake</title>
+      <link>http://devboy.org/project/fake</link>
       <pubDate>Sun, 21 Jun 2015 00:19:46 +0200</pubDate>
       
-      <guid>http://devboy.org/project/fsharp/fake</guid>
+      <guid>http://devboy.org/project/fake</guid>
       <description>&lt;p&gt;&amp;ldquo;FAKE - F# Make&amp;rdquo; is a cropen-source platform build automation system. Due to its integration in F#, all benefits of the .NET Framework and functional programming can be used, including the extensive class library, powerful debuggers and integrated development environments like Visual Studio or MonoDevelop, which provide syntax highlighting and code completion.&lt;/p&gt;
 
 &lt;p&gt;The new DSL was designed to be succinct, typed, declarative, extensible and easy to use.&lt;/p&gt;
@@ -50,11 +50,11 @@ Just checking if that &lt;a href=&#34;http://gohugo.io&#34;&gt;this static site-
     </item>
     
     <item>
-      <title>wooga/entitas</title>
-      <link>http://devboy.org/project/wooga/entitas</link>
+      <title>entitas</title>
+      <link>http://devboy.org/project/entitas</link>
       <pubDate>Sun, 21 Jun 2015 00:18:36 +0200</pubDate>
       
-      <guid>http://devboy.org/project/wooga/entitas</guid>
+      <guid>http://devboy.org/project/entitas</guid>
       <description>&lt;p&gt;Entitas is an entity-system written in Objective-C. It is very much inspired by existing entity-systems in ActionScript3 like &lt;a href=&#34;http://www.richardlord.net/blog/introducing-ash&#34;&gt;Ash&lt;/a&gt;, &lt;a href=&#34;https://github.com/tdavies/Ember&#34;&gt;Ember&lt;/a&gt; and &lt;a href=&#34;https://github.com/alecmce/xember&#34;&gt;XEmber&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/wooga/entitas&#34;&gt;github.com/wooga/entitas&lt;/a&gt;&lt;/p&gt;
@@ -62,7 +62,7 @@ Just checking if that &lt;a href=&#34;http://gohugo.io&#34;&gt;this static site-
     </item>
     
     <item>
-      <title>devboy/FAKE.Unity3D</title>
+      <title>FAKE.Unity3D</title>
       <link>http://devboy.org/project/devboy/fake-unity3d</link>
       <pubDate>Sun, 21 Jun 2015 00:16:21 +0200</pubDate>
       
@@ -74,11 +74,11 @@ Just checking if that &lt;a href=&#34;http://gohugo.io&#34;&gt;this static site-
     </item>
     
     <item>
-      <title>fsprojects/paket</title>
-      <link>http://devboy.org/project/fsprojects/paket</link>
+      <title>paket</title>
+      <link>http://devboy.org/project/paket</link>
       <pubDate>Sun, 21 Jun 2015 00:15:14 +0200</pubDate>
       
-      <guid>http://devboy.org/project/fsprojects/paket</guid>
+      <guid>http://devboy.org/project/paket</guid>
       <description>&lt;p&gt;A package dependency manager for .NET with support for NuGet packages and GitHub repositories.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/fsprojects/Paket&#34;&gt;github.com/fsprojects/Paket&lt;/a&gt;&lt;/p&gt;
@@ -86,19 +86,7 @@ Just checking if that &lt;a href=&#34;http://gohugo.io&#34;&gt;this static site-
     </item>
     
     <item>
-      <title>devboy/buildr-as3</title>
-      <link>http://devboy.org/project/devboy/buildr-as3</link>
-      <pubDate>Sun, 21 Jun 2015 00:06:51 +0200</pubDate>
-      
-      <guid>http://devboy.org/project/devboy/buildr-as3</guid>
-      <description>&lt;p&gt;“build like you code” - now supporting ActionScript 3 &amp;amp; Flex&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/devboy/buildr-as3&#34;&gt;github.com/devboy/buildr-as3&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>devboy/buildr-hx</title>
+      <title>buildr-hx</title>
       <link>http://devboy.org/project/devboy/buildr-hx</link>
       <pubDate>Sun, 21 Jun 2015 00:06:51 +0200</pubDate>
       
@@ -110,7 +98,19 @@ Just checking if that &lt;a href=&#34;http://gohugo.io&#34;&gt;this static site-
     </item>
     
     <item>
-      <title>devboy/Paket.Unity3D</title>
+      <title>buildr-as3</title>
+      <link>http://devboy.org/project/devboy/buildr-as3</link>
+      <pubDate>Sun, 21 Jun 2015 00:06:51 +0200</pubDate>
+      
+      <guid>http://devboy.org/project/devboy/buildr-as3</guid>
+      <description>&lt;p&gt;“build like you code” - now supporting ActionScript 3 &amp;amp; Flex&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/devboy/buildr-as3&#34;&gt;github.com/devboy/buildr-as3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paket.Unity3D</title>
       <link>http://devboy.org/project/devboy/paket-unity3d</link>
       <pubDate>Sun, 21 Jun 2015 00:06:51 +0200</pubDate>
       
@@ -122,7 +122,7 @@ Just checking if that &lt;a href=&#34;http://gohugo.io&#34;&gt;this static site-
     </item>
     
     <item>
-      <title>wooga/wooga.lambda</title>
+      <title>wooga.lambda</title>
       <link>http://devboy.org/project/wooga/wooga-lambda</link>
       <pubDate>Sat, 20 Jun 2015 20:06:39 +0200</pubDate>
       
