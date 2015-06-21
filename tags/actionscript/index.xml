@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Actionscript on devboy.org</title>
-    <link>http://localhost:1313/tags/actionscript/</link>
+    <link>http://devboy.org/tags/actionscript/</link>
     <description>Recent content in Actionscript on devboy.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jun 2015 00:06:51 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/actionscript/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://devboy.org/tags/actionscript/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>devboy/buildr-as3</title>
-      <link>http://localhost:1313/project/devboy/buildr-as3</link>
+      <link>http://devboy.org/project/devboy/buildr-as3</link>
       <pubDate>Sun, 21 Jun 2015 00:06:51 +0200</pubDate>
       
-      <guid>http://localhost:1313/project/devboy/buildr-as3</guid>
+      <guid>http://devboy.org/project/devboy/buildr-as3</guid>
       <description>&lt;p&gt;“build like you code” - now supporting ActionScript 3 &amp;amp; Flex&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/devboy/buildr-as3&#34;&gt;github.com/devboy/buildr-as3&lt;/a&gt;&lt;/p&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>devboy/buildr-hx</title>
-      <link>http://localhost:1313/project/devboy/buildr-hx</link>
+      <link>http://devboy.org/project/devboy/buildr-hx</link>
       <pubDate>Sun, 21 Jun 2015 00:06:51 +0200</pubDate>
       
-      <guid>http://localhost:1313/project/devboy/buildr-hx</guid>
+      <guid>http://devboy.org/project/devboy/buildr-hx</guid>
       <description>&lt;p&gt;“build like you code” - now supporting haXe&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/devboy/buildr-hx&#34;&gt;github.com/devboy/buildr-hx&lt;/a&gt;&lt;/p&gt;

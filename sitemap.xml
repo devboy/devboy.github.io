@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://devboy.org/</loc>
     <lastmod>2015-06-21T02:28:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/2015/06/reviving-this-blog/</loc>
+    <loc>http://devboy.org/blog/2015/06/reviving-this-blog/</loc>
     <lastmod>2015-06-21T02:28:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/page/about/</loc>
+    <loc>http://devboy.org/page/about/</loc>
     <lastmod>2015-06-21T02:19:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/project/fsharp/fake</loc>
+    <loc>http://devboy.org/project/fsharp/fake</loc>
     <lastmod>2015-06-21T00:19:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/project/wooga/entitas</loc>
+    <loc>http://devboy.org/project/wooga/entitas</loc>
     <lastmod>2015-06-21T00:18:36+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/project/devboy/fake-unity3d</loc>
+    <loc>http://devboy.org/project/devboy/fake-unity3d</loc>
     <lastmod>2015-06-21T00:16:21+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/project/fsprojects/paket</loc>
+    <loc>http://devboy.org/project/fsprojects/paket</loc>
     <lastmod>2015-06-21T00:15:14+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/project/devboy/buildr-hx</loc>
+    <loc>http://devboy.org/project/devboy/buildr-as3</loc>
     <lastmod>2015-06-21T00:06:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/project/devboy/buildr-as3</loc>
+    <loc>http://devboy.org/project/devboy/buildr-hx</loc>
     <lastmod>2015-06-21T00:06:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/project/devboy/paket-unity3d</loc>
+    <loc>http://devboy.org/project/devboy/paket-unity3d</loc>
     <lastmod>2015-06-21T00:06:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/project/wooga/wooga-lambda</loc>
+    <loc>http://devboy.org/project/wooga/wooga-lambda</loc>
     <lastmod>2015-06-20T20:06:39+02:00</lastmod>
   </url>
   

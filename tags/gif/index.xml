@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gif on devboy.org</title>
-    <link>http://localhost:1313/tags/gif/</link>
+    <link>http://devboy.org/tags/gif/</link>
     <description>Recent content in Gif on devboy.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jun 2015 02:28:24 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/gif/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://devboy.org/tags/gif/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Reviving this blog</title>
-      <link>http://localhost:1313/blog/2015/06/reviving-this-blog/</link>
+      <link>http://devboy.org/blog/2015/06/reviving-this-blog/</link>
       <pubDate>Sun, 21 Jun 2015 02:28:24 +0200</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/06/reviving-this-blog/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/boring-zombie.gif&#34; alt=&#34;&#34; /&gt;
+      <guid>http://devboy.org/blog/2015/06/reviving-this-blog/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://devboy.org/post/boring-zombie.gif&#34; alt=&#34;&#34; /&gt;
 
 Just checking if that &lt;a href=&#34;http://gohugo.io&#34;&gt;this static site-generator&lt;/a&gt; actually works.&lt;/p&gt;
 </description>
