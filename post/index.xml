@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on devboy.org</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on devboy.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jun 2015 02:28:24 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>revival</title>
+      <link>http://localhost:1313/blog/2015/06/revival/</link>
+      <pubDate>Sun, 21 Jun 2015 02:28:24 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/06/revival/</guid>
+      <description>
+
+&lt;h1 id=&#34;posts-incoming:ae92e42a5677ac6ead6e02e8625de5d5&#34;&gt;posts incoming&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
